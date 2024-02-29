@@ -1,4 +1,3 @@
 credentials.tf
-terraform*
 terraform.tfstate*
 .terraform*
