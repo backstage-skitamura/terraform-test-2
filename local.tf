@@ -53,7 +53,7 @@ locals {
       }
     }
   }
-  
+
   eks_access_entry = {
     principal_type = "user"
     principal_name = "eks-test-user"
